@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a console-based banking application developed in Java as the final project for my Project-Oriented Programming course. The application simulates a real-world banking system by allowing users to create and manage accounts, perform deposits and withdrawals, transfer funds, and maintain account information through an interactive menu-driven interface.
+This project is a console-based banking application developed in Java that simulates core banking operations. The system allows users to create and manage accounts, perform deposits and withdrawals, transfer funds, view account information, and maintain account data through an interactive menu-driven interface.
 
 The project demonstrates object-oriented programming principles including encapsulation, inheritance, polymorphism, and abstraction. It also incorporates file persistence, allowing account data to be saved and loaded between program sessions.
 
